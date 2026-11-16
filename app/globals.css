@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body { background:#eff3f9; color:#172940; font-family:Arial, Helvetica, sans-serif; }
+* { scrollbar-color:#aebdd1 #eff3f9; }
+::selection { background:#c9daff; color:#162e59; }
